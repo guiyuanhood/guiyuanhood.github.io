@@ -1,0 +1,18 @@
+- class_name: 友情链接
+  class_desc: Collected info.
+  link_list:
+    - name: JerryC
+      link: https://jerryc.me/
+      avatar: https://jerryc.me/image/avatar.png
+      descr: 今日事,今日畢
+    - name: Hexo
+      link: https://hexo.io
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速，简单且强大的博客框架
+
+- class_name: Website
+  class_desc: Recommended websiteds
+  link_list:
+    - name: 机器之心
+      link: https://www.jiqizhixin.com
+      descr: 企业人工智能服务
