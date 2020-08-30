@@ -2,10 +2,13 @@
 Thumbs.db
 db.json
 *.log
-node_modules/
-public/
+node_modules/*
+public/*
 .deploy*/
 source/drafts/*
 themes/butterfly/.git/*
 themes/butterfly/.github/*
 themes/landscape/*
+package-lock.json
+package.json
+themes/butterfly/_config.yml
