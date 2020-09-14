@@ -629,8 +629,8 @@ aside:
     format: MMMM YYYY # eg: YYYY年MM月
     order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending
     limit: 8 # if set 0 will show all
-  card_webinfo: true
-  card_maps: true
+  card_webinfo: false
+  card_maps: false
 
 # busuanzi count for PV / UV in site
 # 訪問人數
