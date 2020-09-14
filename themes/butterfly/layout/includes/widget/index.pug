@@ -16,4 +16,7 @@ if theme.aside.enable
       if theme.aside.card_archives.enable
         !=partial('includes/widget/card_archives', {}, {cache:theme.fragment_cache})
       if theme.aside.card_webinfo
-        !=partial('includes/widget/card_webinfo', {}, {cache:theme.fragment_cache})  
+        !=partial('includes/widget/card_webinfo', {}, {cache:theme.fragment_cache})
+      if theme.aside.card_maps
+        !=partial('includes/widget/card_maps', {}, {cache:theme.fragment_cache})
+  
